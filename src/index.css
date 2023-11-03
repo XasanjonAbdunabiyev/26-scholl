@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Inria Serif";
+  src: url("/fonts/Inria Serif/InriaSerif-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  scrollbar-width: thin;
+  scrollbar-color: #5c5c5c #262528;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+/* ===== Scrollbar CSS ===== */
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #1A0EA9;
+  border-radius: 10px;
+  border: 6px double #a4a4a4;
+}
+
+.container {
+  max-width: 1400px;
+  width: 95%;
+  margin: 0 auto;
+}

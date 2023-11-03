@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "student_image": "/images/hero.jpg",
+      "student_title": "Secondary School Graduation ceremony"
+    },
+    {
+      "student_image": "/images/hero.jpg",
+      "student_title": "Regional girls' volleyball tournament"
+    },
+    {
+      "student_image": "/images/hero.jpg",
+      "student_title": "Teacher’s visit to ministry"
+    },
+    {
+      "student_image": "/images/hero.jpg",
+      "student_title": "Secondary School Graduation ceremony"
+    },
+    {
+      "student_image": "/images/hero.jpg",
+      "student_title": "Regional girls' volleyball tournament"
+    },
+    {
+      "student_image": "/images/hero.jpg",
+      "student_title": "Teacher’s visit to ministry"
+    }
+  ]
+}
