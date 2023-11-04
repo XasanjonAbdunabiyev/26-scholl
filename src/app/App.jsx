@@ -4,7 +4,7 @@ import React from 'react'
  * @components
  */
 
-import { Layout } from '../components'
+import { Layout, Showcase } from '../components'
 
 /**
  * @pages
@@ -21,6 +21,7 @@ export default function App() {
 	return (
 		<div className="page-wrapper">
 			<Layout>
+				<Showcase />
 				<About />
 				<AdditionalCard />
 				<Academics />
