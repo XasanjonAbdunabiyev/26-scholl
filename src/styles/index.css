@@ -45,7 +45,7 @@
 }
 
 .custom-shape-divider-top .shape-fill {
-	fill: #959595;
+	fill: rgb(0, 0, 56);
 }
 
 
@@ -64,7 +64,7 @@
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
-    height: 150px;
+    height: 100px;
 }
 
 .custom-shape-divider-top-1699122446 .shape-fill {

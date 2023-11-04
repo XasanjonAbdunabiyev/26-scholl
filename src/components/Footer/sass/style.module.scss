@@ -16,43 +16,67 @@
 		display: flex;
 		align-items: center;
 		gap: 15px;
-        height: 50vh;
-        position: relative;
-        top: 50px;
-        .footerItem {
-            height: 300px;
-            width: 33.3%;
-            padding: 10px;
-            text-align: center;
-            h3 {
-                font-family: "Engravers' Gothic Regular";
+		height: 50vh;
+		position: relative;
+		top: 50px;
+		.footerItem {
+			height: 300px;
+			width: 33.3%;
+			padding: 10px;
+			text-align: center;
+			h3 {
+				font-family: "Engravers' Gothic Regular";
 				color: #fff;
 				font-size: 1.4rem;
 				text-transform: uppercase;
-                font-weight: bold;
-                letter-spacing: 1px;
+				font-weight: bold;
+				letter-spacing: 1px;
 			}
 
-            .download_btn{
-                background-color: black;
-                margin-top: 10px;
-                padding: 10px;
-                display: flex;
-                color: #fff;
-                align-items: center;
-                gap: 10px;
-                border-radius: 10px;
-                font-family: "Engravers' Gothic Regular";
-                font-size: 1.2rem;
-            }
+			.download_btn {
+				background-color: black;
+				margin-top: 10px;
+				padding: 10px;
+				display: flex;
+				color: #fff;
+				align-items: center;
+				gap: 10px;
+				border-radius: 10px;
+				font-family: "Engravers' Gothic Regular";
+				font-size: 1.2rem;
+			}
 
-            &:nth-child(2) {
-                border-left: 1px solid rgb(211, 196, 149);
-                border-right: 1px solid rgb(211, 196, 149);
-            }
+			&:nth-child(2) {
+				border-left: 1px solid #d3c495;
+				border-right: 1px solid rgb(211, 196, 149);
+			}
 
-            a {
-                font-family: "Engravers' Gothic Regular";
+			a {
+				font-family: "Engravers' Gothic Regular";
+			}
+
+			button {
+				font-family: "Engravers' Gothic Regular";
+				font-size: 1.3rem;
+				border: none;
+				margin: 10px 0;
+			}
+		}
+
+		@media (max-width: 990px) {
+			flex-direction: column;
+            height: auto;
+            align-items: flex-start;
+
+            .footerItem{
+                width: 100%;
+
+                &:nth-child(2) {
+                    border-left: 0px;
+                    border-right: 0px;
+                    border-top: 1px solid #d3c495;
+                    border-bottom: 1px solid #d3c495;
+                }
             }
 		}
 	}
