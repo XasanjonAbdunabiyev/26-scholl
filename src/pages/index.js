@@ -1,0 +1,5 @@
+export { default as About } from './About/About'
+export { default as AdditionalCard } from './AdditionalCard/AdditionalCard'
+export { default as Academics } from './Academics/Academics'
+export { default as StudentLife } from './StudentLife/StudentLife'
+export { default as EquepmentOption } from './EquepmentOption/EquepmentOption'

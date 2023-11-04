@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,600;0,6..12,700;0,6..12,800;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'Inria Serif';
+	src: url('/fonts/Inria Serif/InriaSerif-Regular.ttf');
+}
+
+@font-face {
+	font-family: "Engravers' Gothic Regular";
+	src: url("/fonts/Engravers-Gothic-Regular/Engravers' Gothic Regular.otf");
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	max-width: 1400px;
+	width: 95%;
+	margin: auto;
+}
+
+/* Shepe dvider app */
+.custom-shape-divider-top {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	overflow: hidden;
+	line-height: 0;
+}
+
+.custom-shape-divider-top svg {
+	position: relative;
+	display: block;
+	width: calc(191% + 1.3px);
+	height: 73px;
+}
+
+.custom-shape-divider-top .shape-fill {
+	fill: #959595;
+}
+
+
+
+.custom-shape-divider-top-1699122446 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+	z-index: 20;
+}
+
+.custom-shape-divider-top-1699122446 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1699122446 .shape-fill {
+    fill: rgba(0, 0, 106, 0.847);
+}

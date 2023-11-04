@@ -1,0 +1,21 @@
+.equepmenTableContainer{
+    font-family: "Engravers' Gothic Regular";
+
+    tr {
+        border-bottom: 1px solid #666;
+        padding: 10px 15px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+
+        td {
+            padding: 15px;
+
+            strong {
+                font-size: 1.4rem;
+            }
+            font-size: 1.2rem;
+          
+        }
+    }
+}
