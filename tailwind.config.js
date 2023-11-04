@@ -10,6 +10,7 @@ module.exports = {
 		fontFamily: {
 			'inria-serif': ['Inria Serif', 'sans-serif'],
 			'code-serif': ["Engravers' Gothic Regular", 'sans-serif'],
+			'nunito': ["Nunito Sans", "sans-serif"]
 		},
 	},
 	plugins: [require('flowbite/plugin')],
