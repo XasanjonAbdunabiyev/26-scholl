@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 
 const Showcase = () => {
 	return (
-		<div className="h-[90vh] max-[1000px]:h-[120vh] py-3 overflow-hidden">
+		<div className="h-[90vh] py-3 overflow-hidden">
 			<div className="container">
 				<div className="banner-logo">
 					<img
@@ -13,7 +13,7 @@ const Showcase = () => {
                         className='relative top-20'
 					/>
 				</div>
-				<div className="mx-auto absolute rounded-lg top-40 right-2 bg-[#F2F5FD] text-center w-[70%] p-10 max-[1000px]:top-72 max-[900px]:w-[90%] max-[500px]:w-full">
+				<div className="mx-auto absolute rounded-lg top-40 right-2 bg-[#F2F5FD] text-center w-[70%] p-10  max-[900px]:w-[90%] max-[900px]:top-[400px] max-[500px]:w-full">
 					<motion.div
 						initial={{ opacity: 0, scale: 0.2 }}
 						animate={{ opacity: 1, scale: 1 }}
