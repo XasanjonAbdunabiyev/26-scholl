@@ -1,28 +1,28 @@
 {
   "students": [
     {
-      "student_image": "/images/studensts-life/card1.jpg",
+      "student_image": "/images/studensts-life/card.jpg",
       "student_title": "Secondary School Graduation ceremony"
     },
     {
-      "student_image": "/images/studensts-life/card4.jpg",
+      "student_image": "/images/studensts-life/card-heh.jpg",
       "student_title": "Regional girls' volleyball tournament"
-    },
-    {
-      "student_image": "/images/studensts-life/card3.jpg",
-      "student_title": "Teacher’s visit to ministry"
-    },
-    {
-      "student_image": "/images/studensts-life/card4.jpg",
-      "student_title": "Secondary School Graduation ceremony"
     },
     {
       "student_image": "/images/studensts-life/card5.jpg",
-      "student_title": "Regional girls' volleyball tournament"
+      "student_title": "Teacher’s visit to ministry"
+    },
+    {
+      "student_image": "/images/studensts-life/card4.jpg",
+      "student_title": "MUN event with high school students"
+    },
+    {
+      "student_image": "/images/studensts-life/card1.jpg",
+      "student_title": "Starting school with celebrating our Independance Day"
     },
     {
       "student_image": "/images/studensts-life/card3.jpg",
-      "student_title": "Teacher’s visit to ministry"
+      "student_title": "“Creativity Festival”"
     }
   ]
 }
