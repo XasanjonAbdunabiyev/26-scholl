@@ -61,23 +61,30 @@
 				border: none;
 				margin: 10px 0;
 			}
+
+			input {
+				font-family: "Engravers' Gothic Regular";
+			}
+			textarea {
+				font-family: "Engravers' Gothic Regular";
+			}
 		}
 
 		@media (max-width: 990px) {
 			flex-direction: column;
-            height: auto;
-            align-items: flex-start;
+			height: auto;
+			align-items: flex-start;
 
-            .footerItem{
-                width: 100%;
+			.footerItem {
+				width: 100%;
 
-                &:nth-child(2) {
-                    border-left: 0px;
-                    border-right: 0px;
-                    border-top: 1px solid #d3c495;
-                    border-bottom: 1px solid #d3c495;
-                }
-            }
+				&:nth-child(2) {
+					border-left: 0px;
+					border-right: 0px;
+					border-top: 1px solid #d3c495;
+					border-bottom: 1px solid #d3c495;
+				}
+			}
 		}
 	}
 }

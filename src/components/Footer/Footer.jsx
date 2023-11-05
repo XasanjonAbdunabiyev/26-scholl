@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useRef } from 'react'
 
 import footer_logo from '/images/svgs/footer-logo.svg'
 
@@ -25,7 +25,11 @@ const Footer = () => {
 			<div className="container">
 				<div className={style.footer_content}>
 					<div className="footer_logo">
-						<img src={footer_logo} width={300} alt="footer-logo" />
+						<img
+							src={footer_logo}
+							width={300}
+							alt="footer-logo"
+						/>
 					</div>
 				</div>
 				<div className={style.footer_wrapper}>
@@ -157,18 +161,6 @@ const Footer = () => {
 							<BsFillTelephoneFill fontSize={20} />
 							+998 (71) 207 40 48
 						</a>
-
-						<form className="flex flex-col">
-							<button
-								type="submit"
-								className="bg-[#d3c495] p-3">
-								Send A Question
-							</button>
-							<input
-								type="email"
-								placeholder="frontent.enter email"
-							/>
-						</form>
 					</div>
 				</div>
 			</div>

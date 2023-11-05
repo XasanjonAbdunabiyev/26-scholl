@@ -1,23 +1,21 @@
-import React from 'react'
-
-/**
- * @components
- */
+import * as React from 'react'
 
 import { Layout, Showcase } from '../components'
 
-/**
- * @pages
- */
 import {
 	About,
 	Academics,
 	AdditionalCard,
 	StudentLife,
 	EquepmentOption,
-} from '../pages'
+} from '../pages';
+
+import aos from "aos";
 
 export default function App() {
+	React.useEffect(() => {
+		aos.init();
+	}, [])
 	return (
 		<div className="page-wrapper">
 			<Layout>
