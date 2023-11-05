@@ -6,7 +6,7 @@ import { EquepmenTable, Heading } from '../../components'
 
 export default function EquepmentOption() {
 	return (
-		<div className="equment-option" id={style.page}>
+		<div className="equment-option overflow-hidden" id={style.page}>
 			<div className="container">
 				<Heading
 					fontFamily="inter-sans"

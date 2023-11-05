@@ -1,16 +1,23 @@
 .section_title {
 	font-family: 'Nunito Sans', sans-serif;
-	font-size: 50px;
 	color: #2b385d;
-    font-weight: 500;
-	margin-bottom: 74px;
+	font-weight: 500;
+	font-size: 40px;
+	margin: 30px 0;
+	@media (max-width: 800px) {
+		font-size: 32px;
+	}
 }
 
 .section_title_serif {
 	color: #2a385d;
 	font-family: Inria Serif;
-	font-size: 50px;
 	font-style: normal;
 	font-weight: 400;
-	line-height: normal;
+	display: block;
+	margin: 30px 0;
+	font-size: 40px;
+	@media (max-width: 800px) {
+		font-size: 32px;
+	}
 }
