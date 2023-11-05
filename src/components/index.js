@@ -7,3 +7,4 @@ export { default as AddCardLists } from './AddCardLists/AddCardLists'
 export { default as StudentLifeCard } from './StudentLifeCard/StudentLifeCard'
 export { default as EquepmenTable } from './EquepmentTable/EquepmenTable'
 export { default as Showcase } from './Showcase'
+export {default as StudentLifeCardList } from "./StudentLifeCardList/StudentLifeCardList";
