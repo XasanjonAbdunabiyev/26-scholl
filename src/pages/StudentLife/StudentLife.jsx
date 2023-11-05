@@ -6,7 +6,7 @@ import studens_db from '../../db/students.json'
 
 export default function StudentLife() {
 	return (
-		<div className="student-life">
+		<div className="student-life" id='student-life'>
 			<div className="container">
 				<Heading fontFamily="serif" pageTitle="Student Life" />
 				<StudentLifeCardList

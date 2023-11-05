@@ -22,17 +22,17 @@ export default function Navbar() {
 				</FlowbiteNavbar.Link>
 				<FlowbiteNavbar.Link
 					className="font-nunito font-medium text-lg"
-					href="/">
+					href="#student-life">
 					School life
 				</FlowbiteNavbar.Link>
 				<FlowbiteNavbar.Link
 					className="font-nunito font-medium text-lg"
 					href="/">
-					School life 
+					School life
 				</FlowbiteNavbar.Link>
 				<FlowbiteNavbar.Link
 					className="font-nunito font-bold text-lg"
-					href="/"
+					href="#contact"
 					active>
 					Contact Us
 				</FlowbiteNavbar.Link>

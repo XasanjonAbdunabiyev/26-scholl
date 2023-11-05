@@ -23,7 +23,7 @@ const Footer = () => {
 				</svg>
 			</div>
 			<div className="container">
-				<div className={style.footer_content}>
+				<div className={style.footer_content} id='contact'>
 					<div className="footer_logo">
 						<img
 							src={footer_logo}
