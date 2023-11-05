@@ -32,7 +32,7 @@ const Footer = () => {
 						/>
 					</div>
 					<div className="text-white font-bold font-nunito text-3xl leading-relaxed">
-						Ministory of Puclic Education of Respublic
+						Ministory of Public Education of Respublic
 						Uzbekistan
 					</div>
 				</div>
