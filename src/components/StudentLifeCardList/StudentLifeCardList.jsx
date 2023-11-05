@@ -2,9 +2,11 @@ import React from 'react'
 
 import StudentLifeCard from '../StudentLifeCard/StudentLifeCard'
 
+import style from "./sass/style.module.scss";
+
 const StudentLifeCardList = (props) => {
 	return (
-		<div className="grid grid-cols-3">
+		<div className={style.studentLifeCardContainer}>
 			{props.studentlifeCard?.map((students) => {
 				return (
 					<StudentLifeCard
