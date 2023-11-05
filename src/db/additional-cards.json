@@ -2,18 +2,18 @@
 	"additionalCards": [
 		{
 			"additional_image": "/images/addtion.jpg",
-			"additional_title": "School Mean option",
+			"additional_title": "School Condition",
 			"additional_description": "5 MEALS A DAY, FREE"
 		},
 		{
 			"additional_image": "/images/additional-card2.jpg",
-			"additional_title": "School uniform",
+			"additional_title": "School Uniform",
 			"additional_description": "CLASSIC STYLE UNIFORM"
 		},
 		{
 			"additional_image": "/images/addtioncard3.jpg",
-			"additional_title": "School hostel option",
-			"additional_description": "FREE"
+			"additional_title": "Type of education",
+			"additional_description": "Co-education"
 		}
 	]
 }

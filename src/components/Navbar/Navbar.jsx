@@ -28,7 +28,7 @@ export default function Navbar() {
 				<FlowbiteNavbar.Link
 					className="font-nunito font-medium text-lg"
 					href="/">
-					Pricing
+					School life 
 				</FlowbiteNavbar.Link>
 				<FlowbiteNavbar.Link
 					className="font-nunito font-bold text-lg"
