@@ -10,7 +10,7 @@ const Showcase = () => {
 					<img
 						src="/images/banner-image.png"
 						alt="banner-image"
-                        className='relative top-20'
+						className="relative top-20"
 					/>
 				</div>
 				<div className="mx-auto absolute rounded-lg top-40 right-2 bg-[#F2F5FD] text-center w-[70%] p-10  max-[900px]:w-[90%] max-[900px]:top-[400px] max-[500px]:w-full">

@@ -1,13 +1,13 @@
 import React from 'react'
 
-import style from "./sass/style.module.scss";
+import style from './sass/style.module.scss'
 
 export default function EquepmenTable() {
 	return (
 		<div className={style.equepmenTableContainer}>
 			<div className="school_equipments col-xl-8 col-lg-8">
 				<figure className="table">
-					<table>
+					<table data-aos="zoom-out-down">
 						<tbody>
 							<tr>
 								<td>
