@@ -1,6 +1,6 @@
-import React, { useRef } from 'react'
+import React from 'react'
 
-import footer_logo from '/images/svgs/footer-logo.svg'
+import footer_logo from '/images/banner-image-remove-bg.png'
 
 import style from './sass/style.module.scss'
 
