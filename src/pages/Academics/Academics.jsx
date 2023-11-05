@@ -4,7 +4,7 @@ import { Heading } from '../../components'
 
 export default function Academics() {
 	return (
-		<div>
+		<div id='academics'>
 			<div className="container">
 				<Heading fontFamily="serif" pageTitle="Academics" />
 				<h2 className="my-4 text-3xl font-thin font-inria-serif">

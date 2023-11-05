@@ -12,7 +12,7 @@ const about_info = {
 
 export default function About() {
 	return (
-		<div className={style.schools}>
+		<div className={style.schools} id='about'>
 			<div className="custom-shape-divider-top">
 				<svg
 					data-name="Layer 1"

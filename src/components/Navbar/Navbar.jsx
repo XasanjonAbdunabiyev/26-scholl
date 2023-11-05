@@ -12,12 +12,12 @@ export default function Navbar() {
 			<FlowbiteNavbar.Collapse>
 				<FlowbiteNavbar.Link
 					className="font-nunito font-medium text-lg"
-					href="/">
+					href="#about">
 					About us
 				</FlowbiteNavbar.Link>
 				<FlowbiteNavbar.Link
 					className="font-nunito font-medium text-lg"
-					href="/">
+					href="#academics">
 					Academics
 				</FlowbiteNavbar.Link>
 				<FlowbiteNavbar.Link
