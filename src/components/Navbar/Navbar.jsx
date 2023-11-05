@@ -27,8 +27,8 @@ export default function Navbar() {
 				</FlowbiteNavbar.Link>
 				<FlowbiteNavbar.Link
 					className="font-nunito font-medium text-lg"
-					href="/">
-					School life
+					href="#equment-option">
+					School equipments option 
 				</FlowbiteNavbar.Link>
 				<FlowbiteNavbar.Link
 					className="font-nunito font-bold text-lg"

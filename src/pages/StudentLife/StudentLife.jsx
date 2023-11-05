@@ -8,7 +8,7 @@ export default function StudentLife() {
 	return (
 		<div className="student-life" id='student-life'>
 			<div className="container">
-				<Heading fontFamily="serif" pageTitle="Student Life" />
+				<Heading  fontFamily="serif" pageTitle="Student Life" />
 				<StudentLifeCardList
 					studentlifeCard={studens_db.students}
 				/>
