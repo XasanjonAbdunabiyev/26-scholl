@@ -8,6 +8,7 @@ export default function Academics() {
 			<div className="container">
 				<Heading fontFamily="serif" pageTitle="Academics" />
 				<h2 className="my-4 text-3xl font-thin font-inria-serif">
+					{/* Teachers */}
 					Teachers
 				</h2>
 				<div
@@ -30,7 +31,7 @@ export default function Academics() {
 					<div className="font-bold p-3 rounded-[50px] font-inria-serif text-3xl">
 						100%
 					</div>
-					<p className="text-2xl w-[65% text-[#2A385D]] leading-snug font-inria-serif max-[1000px]:w-full max-[1000px]:text-xl">
+					<p className="text-2xl w-[65%] text-[#2A385D] leading-snug font-inria-serif max-[1000px]:w-full max-[1000px]:text-xl">
 						of students agree that teachers put a lot of
 						effort into teaching their classes.
 					</p>

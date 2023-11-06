@@ -15,16 +15,15 @@ export default function EquepmenTable() {
 										Date of foundation
 									</strong>
 								</td>
-								<td>2017</td>
+								<td>1984</td>
 							</tr>
 							<tr>
 								<td>
 									<strong>Address</strong>
 								</td>
 								<td>
-									Tashkent city, Yashnabad
-									district, Makhtumkuli
-									street
+									Tashkent region,
+									Okhangaron district
 								</td>
 							</tr>
 							<tr>
@@ -34,8 +33,8 @@ export default function EquepmenTable() {
 									</strong>
 								</td>
 								<td>
-									v.v.b. Davidova Dilrabo
-									Tadjibayevna
+									Nasiba Xanbabayeva
+									Abduvaitovna
 								</td>
 							</tr>
 							<tr>
@@ -44,50 +43,41 @@ export default function EquepmenTable() {
 										Phone number
 									</strong>
 								</td>
-								<td>+998 55&nbsp;501 5050</td>
+								<td>+99899 067 08 85</td>
 							</tr>
 							<tr>
 								<td>
-									<strong>Website</strong>
+									<strong>Counselor</strong>
 								</td>
-								<td>https://ictschool.uz</td>
+								<td>
+									Zamira Ibragimova Alimovna
+								</td>
 							</tr>
 							<tr>
 								<td>
-									<strong>e-mail</strong>
-								</td>
-								<td>info@ictschool.uz</td>
-							</tr>
-							<tr>
-								<td>
-									<strong>
-										Specialization
-										&nbsp;
-									</strong>
+									<strong>E-mail</strong>
 								</td>
 								<td>
-									Mathematics, Physics,
-									Computer science, English.
+									xonbabayevanasiba@gmail.com
 								</td>
 							</tr>
 							<tr>
 								<td>
 									<strong>
 										Type of education
+										&nbsp;
 									</strong>
 								</td>
 								<td>
-									Co-education (boys and
+									co-education (boys and
 									girls study together)
 								</td>
 							</tr>
 							<tr>
 								<td>
-									<strong>
-										Grades &nbsp;
-									</strong>
+									<strong>Grades</strong>
 								</td>
-								<td>From 5 to 11</td>
+								<td>from 1 to 11</td>
 							</tr>
 							<tr>
 								<td>
@@ -103,27 +93,87 @@ export default function EquepmenTable() {
 										Number of students
 									</strong>
 								</td>
-								<td>844</td>
+								<td>752</td>
 							</tr>
 							<tr>
 								<td>
 									<strong>
-										Schools meals&nbsp;
+										School Uniform
 									</strong>
 								</td>
+								<td>classic style uniform</td>
+							</tr>
+							<tr>
 								<td>
-									5 times a day, free of
-									charge
+									<strong>Equipment</strong>
+								</td>
+								<td>
+									Our school is equipped
+									according to modern
+									standards and equipped
+									with specially designed
+									equipment so that students
+									can consolidate their
+									theoretical knowledge in
+									practice. Scientific
+									laboratories and
+									exhibition halls, an
+									assembly hall for 500
+									seats are equipped with
+									modern equipment. There
+									are 10 laboratories
+									equipped with the latest
+									computer models. On the
+									territory of the school
+									and hostel there is a
+									first-aid post and an
+									isolation ward. The
+									institution pays great
+									attention to sports. The
+									sports complex of the
+									school is equipped with
+									all the necessary
+									equipment. There is a
+									library for 125 students,
+									which contains more than
+									3000 works of art. Robotic
+									and schematic rooms are
+									equipped with all the
+									necessary tools.
 								</td>
 							</tr>
 							<tr>
 								<td>
 									<strong>
-										School uniform&nbsp;
+										Created conditions:
 									</strong>
 								</td>
 								<td>
-									classNameic style uniform
+									Special programs in
+									mathematics, physics,
+									computer science and
+									English have been
+									developed, electives have
+									been established. Robotics
+									and judo clubs are
+									organized for students. A
+									media center equipped with
+									modern technology was
+									created to cover school
+									events, develop video
+									tutorials and work on
+									projects. Pupils of the
+									school regularly take part
+									in Olympiads in
+									mathematics, physics and
+									computer science. Pupils
+									of the school of Muhammad
+									al-Khorezmi took part and
+									won the first place in the
+									"Roboto-Uz" competition,
+									which was held for the
+									first time in Uzbekistan
+									in 2020.
 								</td>
 							</tr>
 							<tr>

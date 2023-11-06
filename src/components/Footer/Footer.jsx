@@ -72,7 +72,7 @@ const Footer = () => {
 						<a className="text-white text-start justify-center my-5">
 							<BsFillGeoAltFill fontSize={24} />
 							<p className="font-nunito text-lg font-bold">
-								Toshkent Region, Okangaron
+								Toshkent Region, Okhangaron	
 							</p>
 						</a>
 					</div>
